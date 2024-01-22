@@ -6,10 +6,10 @@ import MyAssignment_1 from './src/screens/assignment'
 import Login from './src/screens/assignment/login'
 import Register from './src/screens/assignment/register'
 import Home from './src/screens/assignment/home'
-import MyLab4 from './src/screens/lab4'
+import Lab4 from './src/screens/lab4'
 const App = () => {
   return (
-    <MyAssignment_1/>
+    <Lab4/>
   )
 }
 

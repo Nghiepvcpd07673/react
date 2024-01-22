@@ -23,7 +23,7 @@ const Register = ({ navigation }) => {
                                 navigation.goBack()
                             }}
                         >
-                            <Image source={require('../assignment/image/muiten (2).png')} />
+                            <Image source={require('../assignment/image/back.png')} />
                         </TouchableOpacity>
                         <Text style={{ color: 'white', paddingLeft: 10, fontWeight: 'bold', fontSize: 20 }}>Sign Up</Text>
                     </View>
